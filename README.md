@@ -25,7 +25,7 @@ This project implements a **vision-based AI solution** for teleoperating robotic
   - **MediaPipe** for hand gesture recognition
   - **PyQt** for the user interface
 - **User Interface**: Provides visual feedback for hand movements and control options for robotic arm manipulation.
- <p> <img width = "50px" height = "50px" src="https://cdn.svgporn.com/logos/python.svg"/>&ensp;<img width = "100%" height = "50px" src="https://chuoling.github.io/mediapipe/images/mediapipe_small.png"/>&ensp;<img width = "100%" height = "60px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"/>  </p>
+ <p> <img width = "50px" height = "50px" src="https://cdn.svgporn.com/logos/python.svg"/>&ensp;<img width = "40%" height = 40px" src="https://chuoling.github.io/mediapipe/images/mediapipe_small.png"/>&ensp;<img width = "60px" height = "60px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"/>  </p>
 
 ## Results 
 ### Demonstration
