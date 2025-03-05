@@ -1,4 +1,4 @@
-# AI-Based Approach in Teleoperation of Robotic Arms
+# Vision-Based Teleoperation System for Robotic Arm 
  ## Project Overview💻
 This project implements a **vision-based AI solution** for teleoperating robotic arms, allowing users to control a robotic arm in real-time through hand gestures. By utilizing **MediaPipe** and **OpenCV**, hand tracking and gesture recognition enable the robotic arm to mimic human movements with precision.
 
